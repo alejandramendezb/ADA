@@ -8,6 +8,9 @@ prof : vanden Broucke Seppe
 - have insight in how advanced analytics can be used to optimize business decisions in e.g. marketing, finance, logistics, HR, et
 
 # Table of Contents  
-[Data assignment 1](https://github.com/EliabethValdez/ADA/tree/main/assignment_1/data)
+
+## [Assignment 1: predictive modeling on tabular data](https://github.com/EliabethValdez/ADA/tree/main/assignment_1)
+### [Information](https://github.com/EliabethValdez/ADA/blob/main/assignment_1/Information)
+### [Data](https://github.com/EliabethValdez/ADA/tree/main/assignment_1/data)
 
 
