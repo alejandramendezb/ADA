@@ -2,6 +2,7 @@
 2021-2022\
 prof : vanden Broucke Seppe\
 Group #15
+- Gregory van Kruijsdijk
 - Anna Tretiakova
 - Elizabeth Valdez
 - Maria Alejandra Mendez Barba
